@@ -8,7 +8,8 @@ Welcome to the landing page repository for the Base Detect App! This landing pag
 - **Next.js and Tailwind CSS:** Modern and responsive design for an enhanced user experience.
 - **JavaScript:** Interactivity to improve user engagement.
 
-## 🚀 Feat
+## 🚀 Live Deployment
+-**Live Link -**[Demo](https:base-detect.vercel.app)
 
 ## 🛠️ Technologies Used
 
