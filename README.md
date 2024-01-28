@@ -9,7 +9,7 @@ Welcome to the landing page repository for the Base Detect App! This landing pag
 - **JavaScript:** Interactivity to improve user engagement.
 
 ## 🚀 Live Deployment
--**Live Link -**[Demo](https:base-detect.vercel.app)
+-**Live Link -**[Demo](https://base-detect.vercel.app/)
 
 ## 🛠️ Technologies Used
 
